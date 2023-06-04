@@ -1,4 +1,7 @@
 # vivo便签转小米笔记工具，子品牌iqoo，红米同样适用
+
+### 代码仓库地址 [https://github.com/D2073620106/note_transfer_xiaomi_vivo](https://github.com/D2073620106/note_transfer_xiaomi_vivo)
+
 ## 使用教程
 
 1、从小米的云服务中拿到对应的Cookie，填写到setting.py文件中
