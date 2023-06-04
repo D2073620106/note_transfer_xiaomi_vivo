@@ -1,5 +1,7 @@
 # vivo便签转小米笔记工具，子品牌iqoo，红米同样适用
 
+换了个手机，发现换机软件无法将vivo（iqoo）便签转换到小米笔记，琢磨了一下，然后就用代码实现了一下
+
 ### 代码仓库地址 [https://github.com/D2073620106/note_transfer_xiaomi_vivo](https://github.com/D2073620106/note_transfer_xiaomi_vivo)
 
 ## 使用教程
